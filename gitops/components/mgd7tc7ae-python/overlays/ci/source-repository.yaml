@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mgd7tc7ae-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mgd7tc7ae-python
